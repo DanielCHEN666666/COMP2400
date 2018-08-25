@@ -1,0 +1,11 @@
+id,title,production_year,award_name,year_of_award,category,result
+42, The Cider House Rules ,1999, Oscar               ,1999, Written Based on previous Material     , won
+301, The Piano             ,1993, Oscar               ,1994, Written Directly for Screen            , won
+341, Strictly Ballroom     ,1992, AFI Award           ,1992, Best Screenplay                        , won
+342, Strictly Ballroom     ,1992, AFI Award           ,1992, Best Screenplay                        , won
+442, Traffic               ,2000, Golden Globe Awards ,2001, Best Screenplay                        , won
+442, Traffic               ,2000, Oscar               ,2001, Screenplay based on Material           , won
+1005, Bullets Over Broadway ,1994, Oscar               ,1995, Best Writing                           , nominated
+1005, Alice                 ,1990, Oscar               ,1991, Best Writing                           , won
+1180, In the Line of Fire   ,1993, Oscar               ,1994, Best Writing                           , nominated
+82, American Beauty       ,1999, Oscar               ,2000, Screenplay Written Directly for Screen , won

@@ -1,0 +1,410 @@
+id,title,production_year,credits
+1, Titanic                              ,1997, 
+22, Shakespeare in Love                  ,1998, 
+42, The Cider House Rules                ,1999, 
+62, Gandhi                               ,1982, 
+82, American Beauty                      ,1999, 
+102, Affliction                           ,1997, 
+121, Life is Beautiful                    ,1997, 
+122, Life is Beautiful                    ,1997, 
+141, Boys Dont Cry                        ,1999, 
+142, Boys Dont Cry                        ,1999, 
+162, Saving Private Ryan                  ,1998, 
+182, The Birds                            ,1963, 
+183, The Birds                            ,1963, 
+1004, Rear Window                          ,1954, 
+201, The Matrix                           ,1999, 
+202, The Matrix                           ,1999, 
+241, The Price of Milk                    ,2000, Topless Women Talk About Their Lives
+261, The Footstep Man                     ,1992, 
+241, Topless Women Talk About Their Lives ,1997, The Price of Milk
+301, The Piano                            ,1993, 
+321, Mad Max                              ,1979, 
+322, Mad Max                              ,1979, 
+341, Strictly Ballroom                    ,1992, 
+342, Strictly Ballroom                    ,1992, 
+361, My Mother Frank                      ,2000, 
+381, American Psycho                      ,2000, 
+382, American Psycho                      ,2000, 
+402, Scream 2                             ,1997, Scream 3
+402, Scream 3                             ,2000, Scream 2
+442, Traffic                              ,2000, 
+461, Psycho                               ,1960, 
+482, I Know What You Did Last Summer      ,1997, 
+502, Cruel Intentions                     ,1999, 
+522, Wild Things                          ,1998, 
+542, Alien                                ,1979, 
+1, Aliens                               ,1986, 
+582, Alien 3                              ,1992, 
+602, Alien: Resurrection                  ,1997, 
+621, Gladiator                            ,2000, 
+642, The World Is Not Enough              ,1999, 
+661, Heat                                 ,1995, 
+682, American History X                   ,1998, 
+701, Fight Club                           ,1999, 
+721, Out of Sight                         ,1998, 
+742, Entrapment                           ,1999, 
+761, The Insider                          ,1999, 
+781, The Blair Witch Project              ,1999, 
+802, Lethal Weapon 4                      ,1998, 
+821, The Fifth Element                    ,1997, 
+841, The Sixth Sense                      ,1999, 
+841, Unbreakable                          ,2000, The Sixth Sense
+882, Armageddon                           ,1998, 
+902, The Kid                              ,2000, 
+922, Twelve Monkeys                       ,1995, 
+222, You have Got Mail                    ,1998, 
+941, Toy Story                            ,1995, 
+962, Proof of Life                        ,2000, 
+962, Hanging Up                           ,2000, 
+1005, Bullets Over Broadway                ,1994, Alice
+1015, Tombstone                            ,1993, 
+1005, Alice                                ,1990, Bullets Over Broadway
+1028, Mermaids                             ,1990, 
+1037, Exotica                              ,1994, 
+1044, Red Rock West                        ,1992, 
+1052, Chaplin                              ,1992, 
+1061, Fearless                             ,1993, 
+1070, Threesome                            ,1994, 
+1079, Jungle Fever                         ,1991, Malcolm X
+1087, Internal Affairs                     ,1990, 
+1097, Single White Female                  ,1992, 
+1104, Trust                                ,1990, Amateur
+1111, Ju Dou                               ,1990, 
+1118, Dahong Denglong Gaogao Gua           ,1991, 
+1124, Cyrano de Bergerac                   ,1990, 
+1005, Manhattan Murder Mystery             ,1993, 
+1132, El Mariachi                          ,1992, 
+1136, Once Were Warriors                   ,1994, 
+1144, Priest                               ,1994, 
+1151, Pump Up the Volum                    ,1990, 
+1159, Benny and Joon                       ,1993, 
+1166, Six Degrees of Separation            ,1993, 
+1174, Bawang Bie Ji                        ,1993, 
+1180, In the Line of Fire                  ,1993, 
+1186, Heavenly Creatures                   ,1994, Braindead
+1191, Hoop Dreams                          ,1994, 
+1196, Seven                                ,1995, 
+1203, Shallow Grave                        ,1994, 
+1211, French Kiss                          ,1995, 
+1186, Braindead                            ,1992, Heavenly Creatures
+1221, Clerks                               ,1994, 
+1226, Apollo 13                            ,1995, 
+1232, Reservoir Dogs                       ,1992, Pulp Fiction
+1232, Pulp Fiction                         ,1994, Reservoir Dogs
+1241, Yinshi Nan Nu                        ,1994, 
+1248, Short Cuts                           ,1993, 
+1255, Legends of the Fall                  ,1994, 
+1261, Natural Born Killers                 ,1994, 
+1268, In the Mouth of Madness              ,1995, 
+1275, Forrest Gump                         ,1994, 
+1279, Malcolm X                            ,1992, Jungle Fever
+1285, Dead Again                           ,1991, 
+1292, Jurassic Park                        ,1993, 
+1297, Clueless                             ,1995, 
+1306, Shadowlands                          ,1993, 
+1104, Amateur                              ,1994, Trust
+1317, GoodFellas                           ,1990, 
+1325, Little Women                         ,1994, 
+1332, While You Were Sleeping              ,1995, 
+1344, Psycho                               ,1960, 
+461, Psycho                               ,1998, 
+1344, Psycho                               ,1998, 
+ Internal Affairs           ,1990,4, unfaithfulness
+ Internal Affairs           ,1990,5, lesbian-cop
+ Internal Affairs           ,1990,6, police
+ Single White Female        ,1992,1, apartment
+ Single White Female        ,1992,2, software
+ Single White Female        ,1992,3, notebook
+ Single White Female        ,1992,4, personals-column
+ Single White Female        ,1992,5, murder
+ Single White Female        ,1992,6, psychopath
+ Single White Female        ,1992,7, puppy
+ Single White Female        ,1992,8, roommate
+ Single White Female        ,1992,9, female scene
+ Trust                      ,1990,1, Marias pregnancy
+ Trust                      ,1990,2, homeless
+ Trust                      ,1990,3, Matthew Slaughter
+ Trust                      ,1990,4, Matthews job
+ Trust                      ,1990,5, being together
+ Trust                      ,1990,6, changes
+ Ju Dou                     ,1990,1, 1920s
+ Ju Dou                     ,1990,2, crippling-accident
+ Ju Dou                     ,1990,3, factory-owner
+ Ju Dou                     ,1990,4, feudal-society
+ Ju Dou                     ,1990,5, impotence
+ Ju Dou                     ,1990,6, push-cart
+ Ju Dou                     ,1990,7, sadism
+ Dahong Denglong Gaogao Gua ,1991,1, marriage
+ Dahong Denglong Gaogao Gua ,1991,2, Chens castle
+ Dahong Denglong Gaogao Gua ,1991,3, competition between the wives
+ Dahong Denglong Gaogao Gua ,1991,4, the red lantern
+ Dahong Denglong Gaogao Gua ,1991,5, haircut
+ Dahong Denglong Gaogao Gua ,1991,6, doctor
+ Cyrano de Bergerac         ,1990,1, fall in love with Roxane
+ Cyrano de Bergerac         ,1990,2, the large nose
+ Cyrano de Bergerac         ,1990,3, the letter
+ Cyrano de Bergerac         ,1990,4, Christian in love
+ Cyrano de Bergerac         ,1990,5, the mistake
+ Manhattan Murder Mystery   ,1993,1, blackmail
+ Manhattan Murder Mystery   ,1993,2, neighbor
+ Manhattan Murder Mystery   ,1993,3, heart-attack
+ Manhattan Murder Mystery   ,1993,4, husband-wife-relationship
+ Manhattan Murder Mystery   ,1993,5, new-york
+ Manhattan Murder Mystery   ,1993,6, publisher
+ Manhattan Murder Mystery   ,1993,7, amateur-detective
+ Manhattan Murder Mystery   ,1993,8, murder
+ El Mariachi                ,1992,1, motorcycle
+ El Mariachi                ,1992,2, paper-knife
+ El Mariachi                ,1992,3, singer
+ El Mariachi                ,1992,4, low-budget
+ El Mariachi                ,1992,5, bathtub
+ El Mariachi                ,1992,6, guitar
+ El Mariachi                ,1992,7, mistaken-identity
+ El Mariachi                ,1992,8, dream
+ El Mariachi                ,1992,9, guitar-case
+ El Mariachi                ,1992,10, hotel
+ Once Were Warriors         ,1994,1, marriage
+ Once Were Warriors         ,1994,2, rape
+ Once Were Warriors         ,1994,3, suicide
+ Once Were Warriors         ,1994,4, vulgarity
+ Once Were Warriors         ,1994,5, alcohol
+ Once Were Warriors         ,1994,6, suicide-by-hanging
+ Priest                     ,1994,1, Love Birds
+ Priest                     ,1994,2, Dogs in front of a pet shop
+ Priest                     ,1994,3, Arriving at Bodega Bay
+ Priest                     ,1994,4, Gull attack
+ Priest                     ,1994,5, Birthday party
+ Priest                     ,1994,6, Bird meeting
+ Priest                     ,1994,7, At Brenners House
+ Priest                     ,1994,8, Open End
+ Pump Up the Volum          ,1990,1, catholic
+ Pump Up the Volum          ,1990,2, controversial
+ Pump Up the Volum          ,1990,3, homosexual
+ Pump Up the Volum          ,1990,4, incest
+ Pump Up the Volum          ,1990,5, priest
+ Pump Up the Volum          ,1990,6, religion
+ Benny and Joon             ,1993,1, mechanic
+ Benny and Joon             ,1993,2, psychiatrist
+ Benny and Joon             ,1993,3, mental-illness
+ Benny and Joon             ,1993,4, psychoanalysis
+ Benny and Joon             ,1993,5, schizophrenia
+ Six Degrees of Separation  ,1993,1, bisexual
+ Six Degrees of Separation  ,1993,2, homosexual
+ Six Degrees of Separation  ,1993,3, impostor
+ Six Degrees of Separation  ,1993,4, suicide
+ Six Degrees of Separation  ,1993,5, nudity
+ Bawang Bie Ji              ,1993,1, peking-opera
+ Bawang Bie Ji              ,1993,2, training
+ Bawang Bie Ji              ,1993,3, become famous
+ Bawang Bie Ji              ,1993,4, prostitution
+ Bawang Bie Ji              ,1993,5, japanese-occupation
+ Bawang Bie Ji              ,1993,6, communism
+ Bawang Bie Ji              ,1993,7, drugs
+ Bawang Bie Ji              ,1993,8, culture revolution
+ In the Line of Fire        ,1993,1, assassination
+ In the Line of Fire        ,1993,2, master-of-disguise
+ In the Line of Fire        ,1993,3, president
+ In the Line of Fire        ,1993,4, neck-breaking-scene
+ In the Line of Fire        ,1993,5, secret-service
+ Heavenly Creatures         ,1994,1, schoolgirl
+ Heavenly Creatures         ,1994,2, bathtub
+ Heavenly Creatures         ,1994,3, make-believe
+ Heavenly Creatures         ,1994,4, parent
+ Heavenly Creatures         ,1994,5, surreal
+ Heavenly Creatures         ,1994,6, murder
+ Hoop Dreams                ,1994,1, college
+ Hoop Dreams                ,1994,2, ghetto
+ Hoop Dreams                ,1994,3, high-school
+ Hoop Dreams                ,1994,4, narrated
+ Hoop Dreams                ,1994,5, school
+ Seven                      ,1995,1, detective
+ Seven                      ,1995,2, seven-deadly-sins
+ Seven                      ,1995,3, violence
+ Seven                      ,1995,4, overweight
+ Seven                      ,1995,5, partner
+ Seven                      ,1995,6, serial-killer
+ Seven                      ,1995,7, disturbing
+ Shallow Grave              ,1994,1, apartment
+ Shallow Grave              ,1994,2, corpse
+ Shallow Grave              ,1994,3, death
+ Shallow Grave              ,1994,4, friend
+ Shallow Grave              ,1994,5, greed
+ Shallow Grave              ,1994,6, betrayal
+ French Kiss                ,1995,1, wine
+ French Kiss                ,1995,2, american-in-paris
+ French Kiss                ,1995,3, france
+ French Kiss                ,1995,4, human-relaionship
+ French Kiss                ,1995,5, paris-france
+ French Kiss                ,1995,6, toronto
+ Braindead                  ,1992,1, 1950s
+ Braindead                  ,1992,2, splatter
+ Braindead                  ,1992,3, dominatnt-mother
+ Braindead                  ,1992,4, zombie
+ Braindead                  ,1992,5, gore
+ Braindead                  ,1992,6, disturbing
+ Braindead                  ,1992,7, mutant-baby
+ Braindead                  ,1992,8, reanimation
+ Braindead                  ,1992,9, zoo
+ Clerks                     ,1994,1, necrophilia
+ Clerks                     ,1994,2, new-jersey
+ Clerks                     ,1994,3, russian-rock
+ Clerks                     ,1994,4, snowball
+ Clerks                     ,1994,5, funeral
+ Clerks                     ,1994,6, generation-X
+ Clerks                     ,1994,7, disgruntled-worker
+ Clerks                     ,1994,8, accidental-necrophilia
+ Apollo 13                  ,1995,1, astronaut
+ Apollo 13                  ,1995,2, husband and wife
+ Apollo 13                  ,1995,3, launch
+ Apollo 13                  ,1995,4, nasa
+ Apollo 13                  ,1995,5, lunar-mission
+ Apollo 13                  ,1995,6, survival
+ Apollo 13                  ,1995,7, explosion
+ Apollo 13                  ,1995,8, space-travel
+ Apollo 13                  ,1995,9, spacecraft
+ Apollo 13                  ,1995,10, return
+ Reservoir Dogs             ,1992,1, car-jacking
+ Reservoir Dogs             ,1992,2, hit-and-run
+ Reservoir Dogs             ,1992,3, severed-ear
+ Reservoir Dogs             ,1992,4, cop-killer
+ Reservoir Dogs             ,1992,5, chase
+ Reservoir Dogs             ,1992,6, undercover
+ Pulp Fiction               ,1994,1, injection
+ Pulp Fiction               ,1994,2, dance-contest
+ Pulp Fiction               ,1994,3, ganster
+ Pulp Fiction               ,1994,4, full-circle
+ Pulp Fiction               ,1994,5, boxing
+ Pulp Fiction               ,1994,6, taxicab
+ Pulp Fiction               ,1994,7, foot-massage
+ Pulp Fiction               ,1994,8, hamburger
+ Pulp Fiction               ,1994,9, corpse
+ Yinshi Nan Nu              ,1994,1, father and daughter
+ Yinshi Nan Nu              ,1994,2, dinner
+ Yinshi Nan Nu              ,1994,3, life of Jia-Chien
+ Yinshi Nan Nu              ,1994,4, in fast food restaurant
+ Yinshi Nan Nu              ,1994,5, pregnant
+ Yinshi Nan Nu              ,1994,6, family discussion
+ Short Cuts                 ,1993,1, fishing
+ Short Cuts                 ,1993,2, helicopter
+ Short Cuts                 ,1993,3, unfaithfulness
+ Short Cuts                 ,1993,4, suicide
+ Short Cuts                 ,1993,5, telepone-sex
+ Short Cuts                 ,1993,6, chainsaw
+ Short Cuts                 ,1993,7, earthquake
+ Short Cuts                 ,1993,8, hospital
+ Legends of the Fall        ,1994,1, bear
+ Legends of the Fall        ,1994,2, brothers
+ Legends of the Fall        ,1994,3, racism
+ Legends of the Fall        ,1994,4, the war
+ Legends of the Fall        ,1994,5, passion
+ Legends of the Fall        ,1994,6, corruption
+ Legends of the Fall        ,1994,7, marriage
+ Legends of the Fall        ,1994,8, father and son
+ Natural Born Killers       ,1994,1, escape
+ Natural Born Killers       ,1994,2, snake-bite
+ Natural Born Killers       ,1994,3, serial-killer
+ Natural Born Killers       ,1994,4, desert
+ Natural Born Killers       ,1994,5, prison
+ Natural Born Killers       ,1994,6, revenge
+ Natural Born Killers       ,1994,7, wedding-ring
+ In the Mouth of Madness    ,1995,1, axe
+ In the Mouth of Madness    ,1995,2, horro-writer
+ In the Mouth of Madness    ,1995,3, lovecraft
+ In the Mouth of Madness    ,1995,4, author
+ In the Mouth of Madness    ,1995,5, publisher
+ In the Mouth of Madness    ,1995,6, asylum
+ In the Mouth of Madness    ,1995,7, monster
+ Forrest Gump               ,1994,1, running
+ Forrest Gump               ,1994,2, folk-singer
+ Forrest Gump               ,1994,3, vietnam war
+ Forrest Gump               ,1994,4, table-tennis
+ Forrest Gump               ,1994,5, hero
+ Forrest Gump               ,1994,6, strom
+ Forrest Gump               ,1994,7, shrimping
+ Forrest Gump               ,1994,8, marathon
+ Forrest Gump               ,1994,9, wedding
+ Forrest Gump               ,1994,10, cancer
+ Forrest Gump               ,1994,11, son
+ Malcolm X                  ,1992,1, penitentiary
+ Malcolm X                  ,1992,2, hustler
+ Malcolm X                  ,1992,3, beach
+ Malcolm X                  ,1992,4, harlem
+ Malcolm X                  ,1992,5, streetcar
+ Malcolm X                  ,1992,6, police-brutality
+ Malcolm X                  ,1992,7, streetcar
+ Malcolm X                  ,1992,8, surveillance
+ Malcolm X                  ,1992,9, train
+ Malcolm X                  ,1992,10, urban-decay
+ Dead Again                 ,1991,1, reporter
+ Dead Again                 ,1991,2, reincarnation
+ Dead Again                 ,1991,3, scandal
+ Dead Again                 ,1991,4, opera
+ Dead Again                 ,1991,5, private-detective
+ Dead Again                 ,1991,6, wedding
+ Dead Again                 ,1991,7, amnesia
+ Dead Again                 ,1991,8, jewelry
+ Jurassic Park              ,1993,1, amusement-park
+ Jurassic Park              ,1993,2, tropical-island
+ Jurassic Park              ,1993,3, tyrannosaurus
+ Jurassic Park              ,1993,4, child
+ Jurassic Park              ,1993,5, gene-manipulation
+ Jurassic Park              ,1993,6, raptor
+ Jurassic Park              ,1993,7, computer-cracker
+ Jurassic Park              ,1993,8, disaster
+ Jurassic Park              ,1993,9, product-placement
+ Clueless                   ,1995,1, beverly-hills
+ Clueless                   ,1995,2, high-school
+ Clueless                   ,1995,3, popularity
+ Clueless                   ,1995,4, teen
+ Clueless                   ,1995,5, makeover
+ Clueless                   ,1995,6, driving test
+ Clueless                   ,1995,7, wedding
+ Shadowlands                ,1993,1, author
+ Shadowlands                ,1993,2, the Narnia books
+ Shadowlands                ,1993,3, teacher of Oxford
+ Shadowlands                ,1993,4, Joy Gresham
+ Shadowlands                ,1993,5, love affair
+ Shadowlands                ,1993,6, Joy is unwell
+ Shadowlands                ,1993,7, life became complicated
+ Amateur                    ,1994,1, amnesia
+ Amateur                    ,1994,2, blackmail
+ Amateur                    ,1994,3, nun
+ Amateur                    ,1994,4, torture
+ Amateur                    ,1994,5, pornographer
+ GoodFellas                 ,1990,1, gangster
+ GoodFellas                 ,1990,2, prison
+ GoodFellas                 ,1990,3, heist
+ GoodFellas                 ,1990,4, paranoia
+ GoodFellas                 ,1990,5, contraband
+ GoodFellas                 ,1990,6, mafia
+ GoodFellas                 ,1990,7, nightclub
+ GoodFellas                 ,1990,8, cheat-on-wife
+ GoodFellas                 ,1990,9, organized-crime
+ GoodFellas                 ,1990,10, witness-protection
+ GoodFellas                 ,1990,11, christmas
+ Little Women               ,1994,1, 1860s
+ Little Women               ,1994,2, american-civil-war
+ Little Women               ,1994,3, neighbor
+ Little Women               ,1994,4, sisters
+ Little Women               ,1994,5, secret meetings
+ Little Women               ,1994,6, party
+ Little Women               ,1994,7, father
+ Little Women               ,1994,8, piano
+ While You Were Sleeping    ,1995,1, family
+ While You Were Sleeping    ,1995,2, christmas
+ While You Were Sleeping    ,1995,3, winter
+ While You Were Sleeping    ,1995,4, coma
+ While You Were Sleeping    ,1995,5, financee
+ While You Were Sleeping    ,1995,6, loneliness
+ While You Were Sleeping    ,1995,7, infatuation
+ While You Were Sleeping    ,1995,8, subway
+ While You Were Sleeping    ,1995,9, new-year-eve
+ Psycho                     ,1998,1, Fed up with life
+ Psycho                     ,1998,2, 40000 dollars for a new start
+ Psycho                     ,1998,3, Coffee Break
+ Psycho                     ,1998,4, The Bates Motel
+ Psycho                     ,1998,5, Norman and Mother
+ Psycho                     ,1998,6, Taking a shower
+ Psycho                     ,1998,7, Norman takes over
+ Psycho                     ,1998,8, Killing mother

@@ -1,0 +1,38 @@
+id,title,production_year,award_name,year_of_award,category,result
+209, The Matrix            ,1999, Oscar            ,1999, Sound Effects Editing     , won
+205, The Matrix            ,1999, Oscar            ,1999, Visual Effects            , won
+206, The Matrix            ,1999, Oscar            ,1999, Visual Effects            , won
+207, The Matrix            ,1999, Oscar            ,1999, Visual Effects            , won
+208, The Matrix            ,1999, Oscar            ,1999, Visual Effects            , won
+27, Shakespeare in Love   ,1998, Oscar            ,1998, Costume Design            , Won
+1140, The Piano             ,1993, AFI Award        ,1993, Cinematography            , won
+306, The Piano             ,1993, AFI Award        ,1993, Costume Design            , won
+307, The Piano             ,1993, AFI Award        ,1993, Production Design         , Won
+307, The Piano             ,1993, BAFTA Film Award ,1994, Production Design         , won
+306, The Piano             ,1993, BAFTA Film Award ,1994, Costume Design            , won
+325, Mad Max               ,1979, AFI Award        ,1979, Best Original Music Score , won
+348, Strictly Ballroom     ,1992, BAFTA Film Award ,1993, Production Design         , won
+349, Strictly Ballroom     ,1992, BAFTA Film Award ,1993, Costume Design            , won
+348, Strictly Ballroom     ,1992, AFI Award        ,1992, Production Design         , won
+349, Strictly Ballroom     ,1992, AFI Award        ,1992, Costume Design            , Won
+347, Strictly Ballroom     ,1992, AFI Award        ,1992, Editing                   , won
+547, Alien                 ,1979, Oscar            ,1980, Special Effects           , won
+546, Alien                 ,1979, BAFTA Film Award ,1980, Production Design         , won
+545, Alien                 ,1979, BAFTA Film Award ,1980, Sound Track               , won
+562, Aliens                ,1986, Oscar            ,1987, Sound Effects             , won
+563, Aliens                ,1986, Oscar            ,1987, Visual Effects            , won
+564, Aliens                ,1986, BAFTA Film Award ,1987, Visual Effects            , won
+6, Titanic               ,1997, Oscar            ,1998, Set Decorating            , Won
+7, Titanic               ,1997, Oscar            ,1998, Cinematography            , won
+8, Titanic               ,1997, Oscar            ,1998, Costume Design            , won
+9, Titanic               ,1997, Oscar            ,1998, Visual Effects            , won
+10, Titanic               ,1997, Oscar            ,1998, Sound Effects             , won
+11, Titanic               ,1997, Oscar            ,1998, Editing                   , won
+12, Titanic               ,1997, Oscar            ,1998, Music                     , won
+13, Titanic               ,1997, Oscar            ,1998, Song Lyric                , won
+11, Titanic               ,1997, Eddie            ,1998, Editing                   , won
+1013, Bullets Over Broadway ,1994, Oscar            ,1995, Best Costume Design       , nominated
+1059, Chaplin               ,1992, BAFTA Film Award ,1993, Best Costume Design       , nominated
+1130, Cyrano de Bergerac    ,1990, Oscar            ,1991, Best Costume Design       , won
+1128, Cyrano de Bergerac    ,1990, BAFTA Film Award ,1992, Best Cinematography       , won
+1130, Cyrano de Bergerac    ,1990, BAFTA Film Award ,1992, Best Costume Design       , won

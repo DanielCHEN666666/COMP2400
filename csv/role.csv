@@ -1,0 +1,327 @@
+id,title,production_year,description,credits
+2, Titanic                              ,1997, Jack Dawson                         ,
+1188, Titanic                              ,1997, Rose DeWitt Bukater                 , 
+4, Titanic                              ,1997, Cal Hockley                         , Heavenly Creatures
+5, Titanic                              ,1997, Molly Brown                         , 
+23, Shakespeare in Love                  ,1998, Philip Henslowe                     , 
+1146, Shakespeare in Love                  ,1998, Hugh Fennyman                       , 
+25, Shakespeare in Love                  ,1998, Lambert                             , Priest
+26, Shakespeare in Love                  ,1998, Queen Elizabeth                     , 
+43, The Cider House Rules                ,1999, Olive Worthington                   , 
+44, The Cider House Rules                ,1999, Homer Wells                         , 
+45, The Cider House Rules                ,1999, Candy Kendall                       , 
+46, The Cider House Rules                ,1999, Mr.Rose                             , 
+47, The Cider House Rules                ,1999, Dr Wilbur Larch                     , 
+63, Gandhi                               ,1982, Mahatma Gandhi                      , 
+64, Gandhi                               ,1982, Margaret Bourke                     , 
+65, Gandhi                               ,1982, Pandit Nehru                        , 
+66, Gandhi                               ,1982, General Dyer                        , 
+83, American Beauty                      ,1999, Lester Burnham                      , 
+84, American Beauty                      ,1999, Carolyn Burnham                     , 
+85, American Beauty                      ,1999, Jane Burnham                        , 
+86, American Beauty                      ,1999, Ricky Fitts                         , 
+103, Affliction                           ,1997, Wade Whitehouse                     , 
+104, Affliction                           ,1997, Jill                                , 
+105, Affliction                           ,1997, Gordon LaRiviere                    , 
+106, Affliction                           ,1997, Jack Hewitt                         , 
+107, Affliction                           ,1997, Glen Whitehouse                     , 
+121, Life is Beautiful                    ,1997, Guido Orefice                       , 
+123, Life is Beautiful                    ,1997, Dora                                , 
+143, Boys Dont Cry                        ,1999, Brandon Teena                       , 
+144, Boys Dont Cry                        ,1999, Lana Tisdel                         , 
+145, Boys Dont Cry                        ,1999, John Lotter                         , 
+146, Boys Dont Cry                        ,1999, Marvin Thomas                       , 
+1227, Saving Private Ryan                  ,1998, Captain John                        , 
+164, Saving Private Ryan                  ,1998, Sergeant Michael                    , Toy Story
+165, Saving Private Ryan                  ,1998, Richard Reiben                      , 
+166, Saving Private Ryan                  ,1998, Jackson                             , 
+181, The Birds                            ,1963, Man in pet shop                     , 
+184, The Birds                            ,1963, Mitch Brenner                       , 
+185, The Birds                            ,1963, Lydia Brenner                       , 
+186, The Birds                            ,1963, Annie Hayworth                      , 
+187, The Birds                            ,1963, Melanie Daniels                     , 
+1001, Rear Window                          ,1954, L.B. Jeff Jefferies                 , 
+1002, Rear Window                          ,1954, Lisa Carol Fremont                  , 
+1003, Rear Window                          ,1954, Lars Thorwald                       , 
+181, Rear Window                          ,1954, Clock-Winding Man                   , 
+203, The Matrix                           ,1999, Thomas                              ," Psycho, Birds"
+204, The Matrix                           ,1999, Morpheus                            , 
+1227, Toy Story                            ,1995, Woody                               , 
+942, Toy Story                            ,1995, Buzz Lightyear                      , Saving Private Ryan
+943, Toy Story                            ,1995, Bo Peep                             , 
+1212, Proof of Life                        ,2000, Alice Bowman                        , 
+622, Proof of Life                        ,2000, Terry Thorne                        , Hanging Up
+963, Proof of Life                        ,2000, Peter Bowman                        , Gladiator
+1212, Hanging Up                           ,2000, Eve                                 , 
+1131, Hanging Up                           ,2000, Georgia                             , Proof of Life
+983, Hanging Up                           ,2000, Maddy                               , Manhattan Murder Mystery
+223, You have Got Mail                    ,1998, Patricia Eden                       , 
+1212, You have Got Mail                    ,1998, Kathleen Kelly                      , 
+242, The Price of Milk                    ,2000, Lucinda                             , Hanging Up
+243, The Price of Milk                    ,2000, Rob                                 , Topless Women Talk About Their Lives
+244, The Price of Milk                    ,2000, Drosophila                          , 
+262, The Footstep Man                     ,1992, Sam                                 , Topless Women Talk About Their Lives
+263, The Footstep Man                     ,1992, Mirielle                            , 
+264, The Footstep Man                     ,1992, Henri de Toulouse                   , 
+242, Topless Women Talk About Their Lives ,1997, Liz                                 , 
+281, Topless Women Talk About Their Lives ,1997, Neil                                , The Price of Milk
+282, Topless Women Talk About Their Lives ,1997, Ant                                 , 
+244, Topless Women Talk About Their Lives ,1997, Prue                                , 
+302, The Piano                            ,1993, Ada McGrath                         , The Price of Milk
+1233, The Piano                            ,1993, George Baines                       , 
+304, The Piano                            ,1993, Flora McGrath                       , Reservoir Dogs
+323, Mad Max                              ,1979, Max Rockatansky                     , 
+324, Mad Max                              ,1979, Jessie Rockatansky                  , Lethal Weapon 4
+343, Strictly Ballroom                    ,1992, Scott Hastings                      , 
+344, Strictly Ballroom                    ,1992, Fran                                , 
+345, Strictly Ballroom                    ,1992, Shirley Hastings                    , 
+346, Strictly Ballroom                    ,1992, Doug Hastings                       , 
+362, My Mother Frank                      ,2000, Mike                                , 
+363, My Mother Frank                      ,2000, Jenny                               , 
+364, My Mother Frank                      ,2000, Frank                               , 
+383, American Psycho                      ,2000, Patrick Bateman                     , 
+384, American Psycho                      ,2000, Donald Kimball                      , 
+385, American Psycho                      ,2000, Paul Allen                          , 
+1153, American Psycho                      ,2000, Courtney Rawlinson                  , 
+403, Scream 2                             ,1997, Dwight Dewey Riley                  , Pump Up the Volume
+404, Scream 2                             ,1997, Sidney Prescott                     , 
+405, Scream 2                             ,1997, Gale Weathers                       , 
+485, Scream 2                             ,1997, Casey                               , 
+421, Scream 3                             ,2000, Cotton Weary                        , I Know What You Did Last Summer
+422, Scream 3                             ,2000, Female Caller                       , 
+423, Scream 3                             ,2000, The Voice                           , 
+424, Scream 3                             ,2000, Christine                           , 
+404, Scream 3                             ,2000, Sidney Prescott                     , 
+405, Scream 3                             ,2000, Gale Weathers                       , Scream 2
+443, Traffic                              ,2000, Robert Wakefield                    , Scream 2
+444, Traffic                              ,2000, Javier Rodriguez                    , 
+445, Traffic                              ,2000, Helena Ayala                        , 
+446, Traffic                              ,2000, Carlos Ayala                        , Entrapment
+447, Traffic                              ,2000, Ray Castro                          , 
+448, Traffic                              ,2000, Barbara Wakefield                   , 
+449, Traffic                              ,2000, Caroline Wakefield                  , 
+450, Traffic                              ,2000, Montel Gordon                       , 
+451, Traffic                              ,2000, Manolo Sanchez                      , 
+452, Traffic                              ,2000, Francisco Flores                    , 
+462, Psycho                               ,1960, Norman Bates                        , 
+463, Psycho                               ,1960, Lila Crane                          , 
+464, Psycho                               ,1960, Marion Crane                        , 
+181, Psycho                               ,1960, Man in hat                          , 
+465, Psycho                               ,1960, Sam Loomis                          , 
+483, I Know What You Did Last Summer      ,1997, Julie James                         , 
+485, I Know What You Did Last Summer      ,1997, Helen Shivers                       , 
+484, I Know What You Did Last Summer      ,1997, Barry Cox                           , Scream 2
+484, Cruel Intentions                     ,1999, Sebastian Valmont                   , Cruel Intentions
+485, Cruel Intentions                     ,1999, Kathryn Merteuil                    , I Know What You Did Last Summer
+503, Cruel Intentions                     ,1999, Annette Hargrove                    , Scream 2
+504, Cruel Intentions                     ,1999, Cecile Caldwell                     , 
+1229, Wild Things                          ,1998, Ray Duquette                        , 
+524, Wild Things                          ,1998, Sam Lombardo                        , Apollo 13
+404, Wild Things                          ,1998, Suzie Toller                        , 
+543, Alien                                ,1979, Captain                             , Scream 2
+544, Alien                                ,1979, Warrent Officer                     , 
+544, Aliens                               ,1986, Lieutenant                          , Aliens
+561, Aliens                               ,1986, Rebecca                             , Alien
+544, Alien 3                              ,1992, Ellen Ripley                        , 
+583, Alien 3                              ,1992, Dillon                              , Aliens
+584, Alien 3                              ,1992, Clemens                             , 
+544, Alien: Resurrection                  ,1997, Lieutenant Ellen                    , 
+1031, Alien: Resurrection                  ,1997, Betty Mechanic                      , Aliens
+604, Alien: Resurrection                  ,1997, Betty Chief Mechanic                , Mermaids
+622, Gladiator                            ,2000, Maximus                             , 
+623, Gladiator                            ,2000, Commodus                            , The Insider
+624, Gladiator                            ,2000, Lucilla                             , 
+643, The World Is Not Enough              ,1999, James Bond                          , 
+644, The World Is Not Enough              ,1999, CEO Elektra                         , 
+645, The World Is Not Enough              ,1999, Christmas                           , 
+662, Heat                                 ,1995, Vincent Hanna                       , 
+663, Heat                                 ,1995, Neil McCauley                       , The Insider
+1017, Heat                                 ,1995, Chris Shiherlis                     , 
+683, American History X                   ,1998, Derek Vinyard                       , Tombstone
+684, American History X                   ,1998, Daniel Vinyard                      , 
+685, American History X                   ,1998, Doris Vinyard                       , 
+683, Fight Club                           ,1999, Narrator                            , 
+1198, Fight Club                           ,1999, Tyler Durden                        , 
+703, Fight Club                           ,1999, Robert Paulsen                      , Twelve Monkeys
+722, Out of Sight                         ,1998, Jack Foley                          , 
+723, Out of Sight                         ,1998, Bank Employee                       , 
+724, Out of Sight                         ,1998, Karen Sisco                         , 
+445, Entrapment                           ,1999, Virginia Baker                      , 
+743, Entrapment                           ,1999, Robert Mac                          , Traffic
+744, Entrapment                           ,1999, Aaron Thibadeaux                    , 
+762, The Insider                          ,1999, Liane Wigand                        , 
+622, The Insider                          ,1999, Jeffrey Wigand                      , 
+662, The Insider                          ,1999, Lowell Bergman                      , Gladiator
+782, The Blair Witch Project              ,1999, Heather Donahue                     , Heat
+783, The Blair Witch Project              ,1999, Josh                                , 
+784, The Blair Witch Project              ,1999, Mike                                , 
+803, Lethal Weapon 4                      ,1998, Roger Murtaugh                      , 
+1183, Lethal Weapon 4                      ,1998, Lorna Cole                          , 
+323, Lethal Weapon 4                      ,1998, Martin Riggs                        , In the Line of Fire
+822, The Fifth Element                    ,1997, Korben Dallas                       , Mad Max
+823, The Fifth Element                    ,1997, Zorg                                , The Sixth Sense
+824, The Fifth Element                    ,1997, Leeloo                              , 
+822, The Sixth Sense                      ,1999, Dr.Malcolm Crowe                    , 
+842, The Sixth Sense                      ,1999, Cole Sear                           , The Fifth Element
+843, The Sixth Sense                      ,1999, Lynn Sear                           , 
+822, Unbreakable                          ,2000, David Dunn                          , 
+1276, Unbreakable                          ,2000, Audrey Dunn                         , The Sixth Sense
+862, Unbreakable                          ,2000, Joseph Dunn                         , Forrest Gump
+822, Armageddon                           ,1998, Harry S.Stamper                     , 
+883, Armageddon                           ,1998, Dan Truman                          , The Fifth Element
+884, Armageddon                           ,1998, Grace Stamper                       , 
+822, The Kid                              ,2000, Russ Duritz                         , 
+903, The Kid                              ,2000, Rusty Duritz                        , Armageddon
+904, The Kid                              ,2000, Amy                                 , 
+822, Twelve Monkeys                       ,1995, James Cole                          , 
+923, Twelve Monkeys                       ,1995, Young Cole                          , The Fifth Element
+1198, Twelve Monkeys                       ,1995, Jeffrey Goines                      , 
+1006, Bullets Over Broadway                ,1994, David Shayne                        , Fight Club
+1007, Bullets Over Broadway                ,1994, Julian Marx                         , 
+1008, Bullets Over Broadway                ,1994, Rocco                               , While You Were Sleeping
+1016, Tombstone                            ,1993, Kurt Russell                        , 
+1017, Tombstone                            ,1993, Val Kilmer                          , 
+1018, Tombstone                            ,1993, Sam Elliott                         , Heat
+1024, Alice                                ,1990, Joe                                 , 
+1025, Alice                                ,1990, Alice Tate                          , 
+1026, Alice                                ,1990, Doug Tate                           , 
+1029, Mermaids                             ,1990, Rachel Flax                         , 
+1030, Mermaids                             ,1990, Lou Landsky                         , 
+1031, Mermaids                             ,1990, Charlotte Flax                      , 
+1038, Exotica                              ,1994, Inspector                           , Little Women
+1039, Exotica                              ,1994, Thomas Pinto                        , 
+1040, Exotica                              ,1994, Christina                           , 
+1045, Red Rock West                        ,1992, Michael Williams                    , 
+1046, Red Rock West                        ,1992, Jim                                 , 
+1053, Chaplin                              ,1992, Charlie Chaplin                     , 
+1054, Chaplin                              ,1992, Hannah Chaplin                      , 
+1055, Chaplin                              ,1992, Sydney Chaplin                      , 
+1062, Fearless                             ,1993, Max Klein                           , 
+1063, Fearless                             ,1993, Laura Klein                         , 
+1064, Fearless                             ,1993, Carla Rodrigo                       , 
+1071, Threesome                            ,1994, Alex                                , 
+1072, Threesome                            ,1994, Stuart                              , 
+1073, Threesome                            ,1994, Eddy                                , 
+1080, Jungle Fever                         ,1991, Flipper Purify                      , 
+1081, Jungle Fever                         ,1991, Angie Tucci                         , 
+1088, Internal Affairs                     ,1990, Dennis Peck                         , 
+1089, Internal Affairs                     ,1990, Raymond Avila                       , 
+1090, Internal Affairs                     ,1990, Kathleen Avila                      , Dead Again
+1098, Single White Female                  ,1992, Allison Jones                       , 
+1099, Single White Female                  ,1992, Hedra Carlson                       , 
+1100, Single White Female                  ,1992, Sam Rawson                          , 
+1105, Trust                                ,1990, Maria Coughlin                      , 
+1106, Trust                                ,1990, Matthew Slaughter                   , 
+1112, Ju Dou                               ,1990, Ju Dou                              , Amateur
+1113, Ju Dou                               ,1990, Yang Tian-qing                      , Daohong Denglong Gaogao Gua
+1112, Dahong Denglong Gaogao Gua           ,1991, Songlian                            , 
+1120, Dahong Denglong Gaogao Gua           ,1991, The Third Concubine                 , Ju Dou
+1119, Dahong Denglong Gaogao Gua           ,1991, The Master                          , 
+1125, Cyrano de Bergerac                   ,1990, Cyrano De Bergerac                  , 
+1126, Cyrano de Bergerac                   ,1990, Roxane                              , 
+1005, Manhattan Murder Mystery             ,1993, Larry Lipton                        , 
+1131, Manhattan Murder Mystery             ,1993, Carol Lipton                        , 
+1133, El Mariachi                          ,1992, El Mariachi                         , Hanging Up
+1134, El Mariachi                          ,1992, Domino                              , 
+1137, Once Were Warriors                   ,1994, Beth Heke                           , 
+1138, Once Were Warriors                   ,1994, Jake Heke                           , 
+1145, Priest                               ,1994, Father Greg Pilkington              , 
+1146, Priest                               ,1994, Father Matthew Thomas               , 
+1152, Pump Up the Volum                    ,1990, Mark Hunter                         , Shakespeare in Love
+1153, Pump Up the Volum                    ,1990, Nora Diniro                         , 
+1160, Benny and Joon                       ,1993, Sam                                 , Little Women
+1161, Benny and Joon                       ,1993, Juniper Pearl                       , 
+1167, Six Degrees of Separation            ,1993, Ouisa Kittredge                     , 
+1168, Six Degrees of Separation            ,1993, Paul                                , 
+1169, Six Degrees of Separation            ,1993, John Flanders                       , 
+1175, Bawang Bie Ji                        ,1993, Cheng Dieyi                         , 
+1176, Bawang Bie Ji                        ,1993, Duan Xiaolou                        , 
+1112, Bawang Bie Ji                        ,1993, Juxian                              , 
+1181, In the Line of Fire                  ,1993, Secret Service Agent Frank Horrigan , 
+1182, In the Line of Fire                  ,1993, Mitch Leary                         , 
+1183, In the Line of Fire                  ,1993, Secret Service Agent Lilly Raines   , 
+1187, Heavenly Creatures                   ,1994, Pauline Yvonne Rieper               , Lethal Weapon 4
+1188, Heavenly Creatures                   ,1994, Juliet Marion Hulme                 , 
+1192, Hoop Dreams                          ,1994, Himself                             , Titanic
+1193, Hoop Dreams                          ,1994, Arthur                              , 
+1197, Seven                                ,1995, Detective William Somerset          , 
+1198, Seven                                ,1995, Detective David Mills               , 
+1204, Shallow Grave                        ,1994, Juliet Miller                       , Legends of the Fall
+1205, Shallow Grave                        ,1994, David Stephens                      , 
+1206, Shallow Grave                        ,1994, Alex Law                            , 
+1212, French Kiss                          ,1995, Kate                                , 
+1213, French Kiss                          ,1995, Luc Teyssier                        , You have Got Mail
+1214, French Kiss                          ,1995, Charlie                             , 
+1217, Braindead                            ,1992, Lionel Cosgrove                     , 
+1218, Braindead                            ,1992, Paquita Maria Sanchez               , 
+1219, Braindead                            ,1992, Mum                                 , 
+1186, Braindead                            ,1992, Undertaker Assistant                , 
+1222, Clerks                               ,1994, Veronica Loughran                   , 
+1223, Clerks                               ,1994, Caitlin Bree                        , 
+1227, Apollo 13                            ,1995, Jim Lovell                          , 
+1228, Apollo 13                            ,1995, Fred Haise                          , Forrest Gump
+1229, Apollo 13                            ,1995, Jack Swigert                        , 
+1233, Reservoir Dogs                       ,1992, Larry                               , Wild Things
+1234, Reservoir Dogs                       ,1992, Freddy                              , Pulp Fiction
+1235, Reservoir Dogs                       ,1992, Vic                                 , 
+1238, Pulp Fiction                         ,1994, Vincent Vega                        , 
+1239, Pulp Fiction                         ,1994, Jules Winnfield                     , 
+1233, Pulp Fiction                         ,1994, Winston Wolf                        , 
+1242, Yinshi Nan Nu                        ,1994, Chu                                 , Reservoir Dogs
+1243, Yinshi Nan Nu                        ,1994, Jia-Ning                            , 
+1244, Yinshi Nan Nu                        ,1994, Jia-Chien                           , 
+1249, Short Cuts                           ,1993, Ann Finnigan                        , 
+1250, Short Cuts                           ,1993, Howard Finnigan                     , 
+1251, Short Cuts                           ,1993, Paul Finnigan                       , 
+1198, Legends of the Fall                  ,1994, Tristan Ludlow                      , 
+1256, Legends of the Fall                  ,1994, Colonel William Ludlow              , Seven
+1257, Legends of the Fall                  ,1994, Alfred Ludlow                       , Shadowlands
+1262, Natural Born Killers                 ,1994, Mickey Knox                         , 
+1263, Natural Born Killers                 ,1994, Mallory Wilson Knox                 , 
+1264, Natural Born Killers                 ,1994, Wayne Gale                          , 
+1269, In the Mouth of Madness              ,1995, John Trent                          , 
+1270, In the Mouth of Madness              ,1995, Sutter Cane                         , Jurassic Park
+1271, In the Mouth of Madness              ,1995, Linda Styles                        , 
+1227, Forrest Gump                         ,1994, Forrest Gump                        , 
+1276, Forrest Gump                         ,1994, Jenny Curran                        , Apollo 13
+1277, Forrest Gump                         ,1994, Lieutenant Daniel Taylor            , Unbreakable
+1281, Malcolm X                            ,1992, Malcolm X                           , 
+1282, Malcolm X                            ,1992, Betty Shabazz                       , 
+1079, Malcolm X                            ,1992, Shorty                              , 
+1284, Dead Again                           ,1991, Mike Church                         , 
+1089, Dead Again                           ,1991, Gray Baker                          , 
+1286, Dead Again                           ,1991, Margaret Strauss                    , Internal Affaris
+1269, Jurassic Park                        ,1993, Alan Grant                          , 
+1293, Jurassic Park                        ,1993, Ellie Sattler                       , In the Mouth of Madness
+1294, Jurassic Park                        ,1993, Ian Malcolm                         , 
+1051, Jurassic Park                        ,1993, John Parker Hammond                 , 
+1298, Clueless                             ,1995, Cher Horowitz                       , 
+1299, Clueless                             ,1995, Dionne                              , 
+1300, Clueless                             ,1995, Tai Fraiser                         , 
+1256, Shadowlands                          ,1993, Lewis                               , 
+1307, Shadowlands                          ,1993, Joy Gresham                         , Legends of the Fall
+1308, Shadowlands                          ,1993, Arnold Dopliss                      , 
+1312, Amateur                              ,1994, Isabelle                            , 
+1106, Amateur                              ,1994, Thomas Ludens                       , 
+1313, Amateur                              ,1994, Sofia Ludens                        , Trust
+1318, GoodFellas                           ,1990, James                               , 
+1319, GoodFellas                           ,1990, Henry Hill                          , 
+1320, GoodFellas                           ,1990, Tommy DeVito                        , 
+1031, Little Women                         ,1994, Josephine                           , 
+1326, Little Women                         ,1994, Friedrich                           , Mermaids
+1327, Little Women                         ,1994, Margaret                            , 
+1153, Little Women                         ,1994, Older Amy March                     , 
+1333, While You Were Sleeping              ,1995, Narrator                            , Pump Up the Volum
+1334, While You Were Sleeping              ,1995, Jack Callaghan                      , 
+1007, While You Were Sleeping              ,1995, Saul                                , 
+1339, Psycho                               ,1998, Norman Bates                        , Bullets Over Broadway
+1341, Psycho                               ,1998, Lila Crane                          , 
+1338, Psycho                               ,1998, Marion Crane                        , 
+1346, Psycho                               ,1960, Milton Arbogast                     , 
+1342, Psycho                               ,1998, Milton Arbogast                     , 
+1340, Psycho                               ,1998, Sam Loomis                          , 
+1175, Bawang Bie Ji                        ,1993, man in bar                          , 
+26, Topless Women Talk About Their Lives ,1997, Narrator                            , 
+462, Psycho                               ,1960, Mother                              , 
+1339, Psycho                               ,1998, Mother                              , 
+,,,, 
